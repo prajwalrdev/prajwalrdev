@@ -68,6 +68,19 @@ Movie or product recommendation engine using cosine similarity.
 
 ---
 
+## 🔥 Real-Time Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwalrdev/prajwalrdev/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/prajwalrdev/prajwalrdev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+> ⚙️ Automatically updated daily via GitHub Actions with custom palette: `neon-ocean`
+
+---
+
 ## 📘 Learning Journey
 
 * [x] Built scalable Express + Mongo APIs
@@ -90,7 +103,7 @@ Movie or product recommendation engine using cosine similarity.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/prajwalrdev)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/prajwalrdev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:prajwal02024@gmail.com)
 
 ---
 
