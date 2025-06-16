@@ -19,11 +19,9 @@
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Tech Stack
 
-<p align="center">
-  <img src="https://github.com/prajwalrdev/prajwalrdev/blob/main/assets/tech-stack-banner.png" alt="Tech Stack Banner" width="100%"/>
-</p>
+![Tech Stack](https://github.com/prajwalrdev/prajwalrdev/blob/main/assets/tech-stack-banner.png?raw=true)
 
 ---
 
@@ -33,22 +31,19 @@
 
 Advanced campaign dashboard with real-time email tracking & MongoDB.
 `Tech:` Node.js, MongoDB, Express, Chart.js
-
-![Campaign Screenshot](https://github.com/prajwalrdev/campaign-dashboard/blob/main/screenshots/dashboard.png)
+![Campaign Screenshot](https://github.com/prajwalrdev/campaign-dashboard/blob/main/screenshots/dashboard.png?raw=true)
 
 ### 📊 Admin Dashboard UI
 
 Modern responsive dashboard with analytics and theme toggle.
 `Tech:` Vue.js, Chart.js, TailwindCSS
-
-![Dashboard Screenshot](https://github.com/prajwalrdev/admin-ui/blob/main/screenshots/admin.png)
+![Dashboard Screenshot](https://github.com/prajwalrdev/admin-ui/blob/main/screenshots/admin.png?raw=true)
 
 ### 🧠 Smart Recommendation System
 
 Movie or product recommendation engine using cosine similarity.
 `Tech:` Python, pandas, scikit-learn
-
-![Recommender Screenshot](https://github.com/prajwalrdev/movie-recommender/blob/main/screenshots/result.png)
+![Recommender Screenshot](https://github.com/prajwalrdev/movie-recommender/blob/main/screenshots/result.png?raw=true)
 
 ---
 
@@ -56,7 +51,7 @@ Movie or product recommendation engine using cosine similarity.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prajwalrdev&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prajwalrdev&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=prajwalrdev&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -69,7 +64,7 @@ Movie or product recommendation engine using cosine similarity.
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=prajwalrdev\&theme=gruvbox\&no-frame=true\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prajwalrdev\&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwalrdev\&theme=react-dark)
 
 ---
 
@@ -95,7 +90,7 @@ Movie or product recommendation engine using cosine similarity.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/prajwalrdev)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/prajwalrdev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:prajwal02024@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your@email.com)
 
 ---
 
