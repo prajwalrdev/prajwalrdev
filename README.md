@@ -1,13 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Prajwal R</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=0FFF95&center=true&vCenter=true&width=450&lines=Full-Stack+Web+Developer;Backend+%7C+Frontend+%7C+Database;Building+ideas+into+impactful+solutions" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwalrdev&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
 ---
 
 ## 💡 About Me
@@ -21,9 +13,12 @@
 
 ## 💼 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,mongodb,postgresql,docker,git,github,linux,vscode,html,css,javascript,typescript,vue,angular,tailwind,bootstrap,python,java,jest,postman" alt="Tech Stack Icons" />
-</p>
+* Go, Node.js, Express, NestJS
+* MongoDB, PostgreSQL
+* Docker, Git, GitHub, Linux, VSCode
+* HTML, CSS, JavaScript, TypeScript
+* Vue, Angular, Tailwind, Bootstrap
+* Python, Java, Jest, Postman
 
 ---
 
@@ -33,51 +28,30 @@
 
 Advanced campaign dashboard with real-time email tracking & MongoDB.
 `Tech:` Node.js, MongoDB, Express, Chart.js
-![Campaign Screenshot](https://github.com/prajwalrdev/campaign-dashboard/blob/main/screenshots/dashboard.png?raw=true)
 
 ### 📊 Admin Dashboard UI
 
 Modern responsive dashboard with analytics and theme toggle.
 `Tech:` Vue.js, Chart.js, TailwindCSS
-![Dashboard Screenshot](https://github.com/prajwalrdev/admin-ui/blob/main/screenshots/admin.png?raw=true)
 
 ### 🧠 Smart Recommendation System
 
 Movie or product recommendation engine using cosine similarity.
 `Tech:` Python, pandas, scikit-learn
-![Recommender Screenshot](https://github.com/prajwalrdev/movie-recommender/blob/main/screenshots/result.png?raw=true)
 
 ---
 
 ## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalrdev&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=prajwalrdev&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalrdev&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
 ---
 
 ## 🏆 Dev Activity & Milestones
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=prajwalrdev\&theme=gruvbox\&no-frame=true\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwalrdev\&theme=react-dark)
+([https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy))
 
 ---
 
 ## 🔥 Real-Time Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwalrdev/prajwalrdev/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/prajwalrdev/prajwalrdev/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 > ⚙️ Automatically updated daily via GitHub Actions with custom palette: `neon-ocean`
 
