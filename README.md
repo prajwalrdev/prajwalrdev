@@ -21,7 +21,9 @@
 
 ## 💼 Tech Stack
 
-![Tech Stack](https://github.com/prajwalrdev/prajwalrdev/blob/main/assets/tech-stack-banner.png?raw=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,mongodb,postgresql,docker,git,github,linux,vscode,html,css,javascript,typescript,vue,angular,tailwind,bootstrap,python,java,jest,postman" alt="Tech Stack Icons" />
+</p>
 
 ---
 
