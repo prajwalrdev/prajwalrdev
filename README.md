@@ -1,9 +1,10 @@
 <h1 align="center">Hey there 👋, I'm Prajwal R</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=0FFF95&center=true&vCenter=true&width=450&lines=Full-Stack+Web+Developer;Backend+%7C+Frontend+%7C+Database;Building+ideas+into+impactful+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=0FFF95&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Backend+%7C+Frontend+%7C+Database;Building+ideas+into+impactful+solutions" alt="Typing SVG" />
 </p>
 
+---
 ---
 
 ## 💡 About Me
