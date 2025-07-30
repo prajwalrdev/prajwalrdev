@@ -5,6 +5,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prajwalrdev&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 ---
 ## 💫 About Me:
 🎓A passionate Full-Stack developer from India<br>🔭 Developer specializing in Full-Stack development, with a focus on building structured and scalable backends.<br>🚀 Experienced in crafting robust applications with Go, Node.js, MongoDB, and modern frontend frameworks like Vue and Angular.<br>🧠 Passionate about optimizing performance and ensuring long-term code maintainability.<br>🧪 Currently expanding my expertise in DevOps, with a focus on Docker and CI/CD pipelines to enhance development workflows.
